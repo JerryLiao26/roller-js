@@ -23,4 +23,4 @@ A simple js component to roll the numbers over!
 - **interval:** Digit increase interval
 
 ### Under development
-The roller will be able to stop and go soon
+The roller will be able to ```stop()``` and ```go()``` soon
